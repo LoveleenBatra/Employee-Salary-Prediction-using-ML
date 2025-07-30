@@ -37,8 +37,6 @@ joblib – Model saving/loading
 ⚠️ Make sure Python is installed (3.8 or later)
 
 1. Clone the Repository
-git clone https://github.com/your-username/employee-salary-prediction.git
-cd employee-salary-prediction
 2. Install Required Packages
 pip install pandas numpy scikit-learn matplotlib streamlit pyngrok joblib
 4. Run the Streamlit App
